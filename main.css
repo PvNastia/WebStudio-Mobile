@@ -1,0 +1,314 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+.footer {
+  background-color: #2F303A;
+  justify-content: center;
+  width: 480px;
+  flex-direction: column;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 480px;
+}
+.footer__logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  padding-top: 60px;
+  color: #fff;
+}
+.footer__logo span {
+  color: #2196F3;
+}
+.footer__address {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #fff;
+  padding-top: 8px;
+}
+.footer__mail {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.6);
+  padding-top: 8px;
+}
+.footer__tel {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.6);
+  padding-top: 8px;
+}
+.footer__social {
+  padding-top: 60px;
+}
+.footer__social h3 {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+}
+.footer__imgs {
+  gap: 10px;
+  justify-content: center;
+  padding: 20px 137px;
+}
+.footer____inp {
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.footer__inp-text {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  justify-content: center;
+  margin-top: 60px;
+}
+.footer__input {
+  width: 450px;
+  height: 50px;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  border-radius: 4px;
+  background-color: #2F303A;
+  color: rgba(255, 255, 255, 0.3019607843);
+  border-color: rgba(255, 255, 255, 0.3019607843);
+  margin-top: 20px;
+  padding-left: 16px;
+}
+.footer__btn {
+  width: 200px;
+  height: 50px;
+  align-items: center;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 700;
+  gap: 12px;
+  padding-left: 31px;
+  background-color: #2196F3;
+  border-radius: 4px;
+  border: none;
+  margin: 20px 140px;
+  color: #fff;
+}
+
+header {
+  align-items: center;
+  padding-left: 15px;
+  gap: 276px;
+  text-align: center;
+  justify-content: center;
+}
+
+.header-logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 700;
+  color: #212121;
+}
+.header-logo span {
+  color: #2196F3;
+}
+
+.part1 {
+  background-image: url(/images/8.jpg);
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 118px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 480px;
+  padding: 118px 60px;
+}
+.part1__text {
+  width: 360px;
+  font-family: "Raleway", sans-serif;
+  font-size: 26px;
+  line-height: 42px;
+  font-weight: 900;
+  color: #fff;
+}
+.part1__btn {
+  margin-top: 30px;
+  padding: 10px 24px;
+  background-color: #2196F3;
+  border: none;
+  border-radius: 4px;
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.part2 {
+  justify-content: center;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: 60px;
+  flex-direction: column;
+  gap: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 480px;
+  justify-content: center;
+}
+.part2__list {
+  width: 450px;
+  flex-direction: column;
+  gap: 30px;
+}
+.part2 .list-item__box {
+  width: 450px;
+  background-color: #F5F4FA;
+  padding: 15px 190px;
+  border-radius: 4px;
+}
+.part2 .list-item__para {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 700;
+  color: #212121;
+  text-align: center;
+  padding-top: 30px;
+  align-items: center;
+}
+.part2 .list-item__text {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #757575;
+  margin-left: 5px;
+  padding-top: 10px;
+}
+
+.part3 {
+  margin-top: 60px;
+  background-color: #F5F4FA;
+  background-color: #fff;
+  width: 450px;
+  justify-content: center;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 480px;
+}
+.part3 h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 28px;
+  line-height: 32px;
+  font-weight: 700;
+  color: #212121;
+  text-align: center;
+  padding-top: 60px;
+}
+.part3__portfolio {
+  flex-direction: column;
+  gap: 30px;
+  border-radius: 4px;
+  box-shadow: 0px 5px 10px 0px #606060;
+  justify-content: center;
+}
+
+.portfolio-wrap__para {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 500;
+  color: #212121;
+  text-align: center;
+  padding-top: 15px;
+  align-items: center;
+}
+.portfolio-wrap__text {
+  font-family: "Raleway", sans-serif;
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: 400;
+  color: #757575;
+  padding-top: 10px;
+}
+.portfolio-wrap__imgs {
+  gap: 10px;
+  padding-left: 122px;
+  flex-wrap: wrap;
+}
+
+.part4 {
+  margin-top: 60px;
+  text-align: center;
+  justify-content: center;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 480px;
+  margin-top: 60px;
+}
+.part4 h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 28px;
+  line-height: 32px;
+  font-weight: 700;
+  color: #212121;
+  text-align: center;
+}
+.part4__imgs {
+  width: 470px;
+  padding: 20px;
+}
+
+* {
+  margin: 0;
+  outline: 1px solid red;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 283px;
+  margin: 0 auto;
+  outline: 1px solid red;
+}
+
+body {
+  margin: 0 auto;
+  justify-content: center;
+  background-color: #fff;
+}
+
+span, div, p, h1, h2, h3, a {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.flex {
+  display: flex;
+}/*# sourceMappingURL=main.css.map */
