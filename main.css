@@ -2,12 +2,12 @@
 .footer {
   background-color: #2F303A;
   justify-content: center;
-  width: 480px;
+  width: 450px;
   flex-direction: column;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 480px;
+  width: 450px;
 }
 .footer__logo {
   font-family: "Raleway", sans-serif;
@@ -133,7 +133,7 @@ header {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 480px;
+  width: 450px;
   padding: 118px 60px;
 }
 .part1__text {
@@ -166,7 +166,7 @@ header {
   gap: 30px;
   margin-left: auto;
   margin-right: auto;
-  width: 480px;
+  width: 450px;
   justify-content: center;
 }
 .part2__list {
@@ -261,7 +261,7 @@ header {
   align-items: center;
   margin-left: auto;
   margin-right: auto;
-  width: 480px;
+  width: 450px;
   margin-top: 60px;
 }
 .part4 h2 {
@@ -279,7 +279,7 @@ header {
 
 * {
   margin: 0;
-  outline: 1px solid red;
+
   padding: 0;
   box-sizing: border-box;
 }
@@ -287,7 +287,7 @@ header {
 .container {
   width: 283px;
   margin: 0 auto;
-  outline: 1px solid red;
+  
 }
 
 body {
